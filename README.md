@@ -10,7 +10,7 @@ I have a keen interest in new technologies and a great passion for Conception & 
 * ✉️  You can contact me at [pixelsplats@gmail.com](mailto:pixelsplats@gmail.com)
 * 🧠  I'm doing the [FreeCodeCamp](https://www.freecodecamp.org/) Certifications & Teaching MySelf CS Degree Requirements With [Curriculum](https://github.com/ForrestKnight/open-source-cs)
 * 🤝  I'm open to collaborating on slick open source projects
-* 🎮  [Music producer](https://www.youtube.com/channel/UCDr1MsreB0-yQII7baBDazQ) && Selling beats [online]()
+* 🎮  [Music producer](https://www.youtube.com/channel/UCDr1MsreB0-yQII7baBDazQ) && Selling beats [online](https://www.linkedin.com/in/steeve-verdieu/)
 
 <a href="https://github.com/flaatpixels" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/mujsdev?logo=github&style=for-the-badge&color=facc15&labelColor=1c1917" /></a>
